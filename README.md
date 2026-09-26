@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Shahd
 
-<!--
-**Shahd-coder520/Shahd-coder520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web & App Developer | Tech Content Creator**
 
-Here are some ideas to get you started:
+I am passionate about building clean, efficient digital experiences and sharing my tech journey. Whether I'm writing code for a new application or creating content to explain tech concepts, my goal is to deliver value and solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Scalable Web and Mobile applications 
+- 🌱 I’m currently learning: Back-end Development with Django 
+- 💬 Ask me about: Web Development, App Architecture, and Tech Content Creation
+- 📫 How to reach me: You can find my social links in my profile
+
+### 🛠️ Tech Stack & Tools
+- **Frontend & Web:** HTML, CSS, JavaScript, TypeScript, Tailwind, React
+- **App Development:** Flutter
+- **Languages:** C++, Kotlin, C#, Python
